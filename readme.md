@@ -38,8 +38,6 @@ RAG-Wikipedia-QA/
 - User is prompted to enter a topic name (e.g., `India`, `Python programming language`)
 - The script fetches the article summary and saves it as a `.txt` file under `/docs`
 
-📸 Screenshot:  
-![Step 1 & 2](wiki.png)
 
 ---
 
