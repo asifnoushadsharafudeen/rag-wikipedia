@@ -1,0 +1,7 @@
+langchain>=0.2.2
+langchain-community
+langchain-huggingface
+wikipedia
+transformers
+sentence-transformers
+faiss-cpu
